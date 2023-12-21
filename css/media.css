@@ -1,0 +1,295 @@
+@media (max-width: 575.98px) {
+    html {
+        font-size: 10px;
+    }
+    .unorder {
+        display: none !important;
+    }
+    section .container {
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 25px;
+    }
+    section .container .titel {
+        width: 100%;
+    }
+    section .container .image-main {
+        width: 100%;
+    }
+    .btn a:nth-of-type(2) .icon::after {
+        width: 22px;
+        height: 22px;
+        top: -2px;
+        left: 0px;
+    }
+    section .titel {
+        margin: 0;
+    }
+    section .container h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 5rem;
+        color: black;
+    }
+    section .container p {
+        font-size: 1.1rem;
+        width: 100%;
+        margin: 0;
+        color: gray;
+        text-align: center;
+    }
+    .btn a:nth-of-type(2) {
+        margin-left: 10px;
+    }
+    .btn a:nth-of-type(2) .icon {
+        margin-right: 0px;
+    }
+    .btn a:nth-of-type(1) {
+        background-color: var(--mainColor);
+        padding: 10px 20px;
+        color: white;
+        margin: 10px;
+        border-radius: 500px;
+    }
+    .chefs .container .cards {
+        display: flex;
+        flex-direction: column;
+    }
+    .chefs .container .cards .card-chef img:nth-of-type(2) {
+        margin-top: -206px;
+    }
+    .chefs .container .cards .card-chef {
+        width: 100%;
+    }
+    .gallery .container .content-image {
+        flex-direction: column;
+    }
+    .gallery .container .content-image .count {
+        margin: 0px;
+    }
+    .contact-us>div {
+        width: 98%;
+        padding: 10px;
+    }
+    .message .container form .two-input {
+        display: flex;
+        flex-direction: column;
+    }
+    .message .container form .two-input input {
+        width: 100%;
+    }
+    .message .container form .submit {
+        width: 137px;
+        padding: 14px;
+        margin: 15px;
+    }
+    footer .container {
+        flex-direction: column;
+        padding: 10px 0;
+    }
+    footer .container div {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .mealify h2 {
+        font-size: 2.5rem;
+    }
+    .mealify p {
+        font-size: 1.2rem !important;
+    }
+    footer .container .mealify {
+        width: 100%;
+        margin-right: 20px;
+    }
+    footer .container .mealify .social ul li a i {
+        font-size: 2rem;
+        margin: 5px;
+    }
+    .subscribe h3 {
+        font-size: 1.2rem;
+        font-weight: bolder;
+    }
+    .subscribe p {
+        font-size: 1rem;
+    }
+    .subscribe .input {
+        display: flex;
+        flex-direction: column;
+    }
+    .subscribe .input input {
+        width: 100% !important;
+    }
+    .subscribe .input button {
+        width: 100% !important;
+    }
+    .quick-links h3 {
+        font-size: 1.3rem;
+        font-weight: bolder;
+    }
+    .subscribe ul li {
+        padding: 0px;
+    }
+    .touch h3 {
+        font-size: 1.3rem;
+        font-weight: bolder;
+    }
+    .touch ul li {
+        color: white;
+        margin: 0px;
+        margin-left: 20px;
+        padding: 6px;
+        position: relative;
+        font-size: .8rem;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    html {
+        font-size: 10px;
+    }
+    .unorder {
+        display: none !important;
+    }
+    section .container {
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 25px;
+    }
+    section .container .titel {
+        width: 100%;
+    }
+    section .container .image-main {
+        width: 100%;
+    }
+    .btn a:nth-of-type(2) .icon::after {
+        width: 22px;
+        height: 22px;
+        top: -2px;
+        left: 0px;
+    }
+    section .titel {
+        margin: 0;
+    }
+    section .container h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 5rem;
+        color: black;
+    }
+    section .container p {
+        font-size: 1.1rem;
+        width: 100%;
+        margin: 0;
+        color: gray;
+        text-align: center;
+    }
+    .btn a:nth-of-type(2) {
+        margin-left: 10px;
+    }
+    .btn a:nth-of-type(2) .icon {
+        margin-right: 0px;
+    }
+    .btn a:nth-of-type(1) {
+        background-color: var(--mainColor);
+        padding: 10px 20px;
+        color: white;
+        margin: 10px;
+        border-radius: 500px;
+    }
+    .chefs .container .cards {
+        display: flex;
+        flex-direction: column;
+    }
+    .chefs .container .cards .card-chef img:nth-of-type(2) {
+        margin-top: -335px;
+    }
+    .chefs .container .cards .card-chef {
+        width: 100%;
+    }
+    .gallery .container .content-image {
+        flex-direction: column;
+    }
+    .gallery .container .content-image .count {
+        margin: 0px;
+    }
+    .contact-us>div {
+        width: 98%;
+        padding: 10px;
+    }
+    .message .container form .two-input {
+        display: flex;
+        flex-direction: column;
+    }
+    .message .container form .two-input input {
+        width: 100%;
+    }
+    .message .container form .submit {
+        width: 137px;
+        padding: 14px;
+        margin: 15px;
+    }
+    footer .container {
+        flex-direction: column;
+        padding: 10px 0;
+    }
+    footer .container div {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .mealify h2 {
+        font-size: 2.5rem;
+    }
+    .mealify p {
+        font-size: 1.2rem !important;
+    }
+    footer .container .mealify {
+        width: 100%;
+        margin-right: 20px;
+    }
+    footer .container .mealify .social ul li a i {
+        font-size: 2rem;
+        margin: 5px;
+    }
+    .subscribe h3 {
+        font-size: 1.2rem;
+        font-weight: bolder;
+    }
+    .subscribe p {
+        font-size: 1rem;
+    }
+    .subscribe .input {
+        display: flex;
+        flex-direction: column;
+    }
+    .subscribe .input input {
+        width: 100% !important;
+    }
+    .subscribe .input button {
+        width: 100% !important;
+    }
+    .quick-links h3 {
+        font-size: 1.3rem;
+        font-weight: bolder;
+    }
+    .subscribe ul li {
+        padding: 0px;
+    }
+    .touch h3 {
+        font-size: 1.3rem;
+        font-weight: bolder;
+    }
+    .touch ul li {
+        color: white;
+        margin: 0px;
+        margin-left: 20px;
+        padding: 6px;
+        position: relative;
+        font-size: .8rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+@media (min-width: 1200px) {}
